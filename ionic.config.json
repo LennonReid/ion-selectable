@@ -1,0 +1,7 @@
+{
+  "name": "ion-selectable",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
